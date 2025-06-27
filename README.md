@@ -11,7 +11,7 @@ The script constructs a computer name using:
 - The Mac’s serial number
 
 The format is:
-<first initial><last name>-<serial number>
+<'first initial'><'last name'>-<'serial number'>
 
 Example: `jsmith-C02ZZZZZZZ`
 
